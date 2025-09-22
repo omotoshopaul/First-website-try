@@ -215,6 +215,15 @@
   .top-\[500px\] {
     top: 500px;
   }
+  .bottom-\[10px\] {
+    bottom: 10px;
+  }
+  .bottom-\[20px\] {
+    bottom: 20px;
+  }
+  .bottom-\[30px\] {
+    bottom: 30px;
+  }
   .bottom-\[50px\] {
     bottom: 50px;
   }
@@ -413,6 +422,9 @@
   }
   .px-\[10\%\] {
     padding-inline: 10%;
+  }
+  .px-\[10px\] {
+    padding-inline: 10px;
   }
   .px-\[20px\] {
     padding-inline: 20px;
