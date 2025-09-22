@@ -724,6 +724,11 @@
       height: 450px;
     }
   }
+  .max-md\:h-\[480px\] {
+    @media (width < 48rem) {
+      height: 480px;
+    }
+  }
   .max-md\:justify-center {
     @media (width < 48rem) {
       justify-content: center;
